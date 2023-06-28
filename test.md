@@ -66,3 +66,16 @@
 示例：
 
 > 这是一段引用的文本。
+
+<span style="color: red; font-size: 18px;">This is red text with font size 18px</span>
+```
+
+您还可以使用以下类来添加警告、信息、错误等提示：
+
+````html
+<div class="warning">This is a warning message</div>
+<div class="info">This is an information message</div>
+<div class="error">This is an error message</div>
+```
+
+GitHub 会自动将这些类应用到相应的元素上，并显示相应的样式。
