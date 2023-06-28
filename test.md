@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Markdown语法示例
 
 ## 标题
