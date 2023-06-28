@@ -1,6 +1,4 @@
----
-layout: default
----
+<link rel="stylesheet" type="text/css" href="mytheme.css">
 
 # Markdown语法示例
 
