@@ -3,6 +3,6 @@
 
 [test](/test.md#段落和换行)
 
-[css](./../static/mytheme.css)
+[css](../static/mytheme.css)
 
 [测试相对地址](/test.html)
