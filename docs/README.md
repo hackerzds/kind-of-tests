@@ -5,4 +5,4 @@
 
 [css](../static/mytheme.css)
 
-[测试相对地址](/test.html)
+[测试相对地址](/index.html)
